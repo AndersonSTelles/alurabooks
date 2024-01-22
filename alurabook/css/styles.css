@@ -1,0 +1,19 @@
+@import url(../css/header.css);
+
+:root {
+--cor-de-fundo: #EBECEE;
+--cor-fundo-rodape: #F9F9F9;
+--branco: #FFFFFF;
+
+--cor-de-botao: #EB9B00;
+
+
+--cor-texto-nav: #000000;
+--cor-texto-rodape: #474646;
+
+
+
+--fonte-principal: 'Poppins';
+}
+
+body {background-color: var(--cor-de-fundo);}
